@@ -18,8 +18,6 @@ DevOps is primarily used to integrate all the processes into a single and automa
 
 Over the period of time the developers and operations have been considered as individual entities. However, over the period of time with the shift from waterfall to agile, DevOps creates a new dynamic that changes the capabilities. 
 
- ![image-20190806141919142](/Users/sparvez/Library/Application Support/typora-user-images/image-20190806141919142.png)
-
 **DevOps Model**
 
 **·      Plan and Identify Phase:** For any project we need to define the work goal along with the functionalities. This further involves changes and evolutions along with continuous feedback. Various tools used in this phase are Jira, Git, SVN, TFS
